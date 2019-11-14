@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^4.3",
+        "mabrahamde/idna-converter": "^1.0",
+        "guzzlehttp/guzzle": "^6.4"
+    }
+}
