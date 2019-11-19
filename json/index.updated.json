@@ -17775,13 +17775,6 @@
             "domain": "docs.google.com"
         },
         "cryptoscamdb": {
-            "category": "Phishing",
-            "subcategory": "Nucleus",
-            "addresses": {
-                "ETH": [
-                    "0x9eb041AF96d44583110565ABeC79aedf22Eb60b5"
-                ]
-            }
         }
     },
     {
@@ -20790,13 +20783,6 @@
             "domain": "medium.com"
         },
         "cryptoscamdb": {
-            "category": "Phishing",
-            "subcategory": "Shivom",
-            "addresses": {
-                "ETH": [
-                    "0xD4718F4601Af5365360896F763bb9D7173257450"
-                ]
-            }
         }
     },
     {
@@ -23205,13 +23191,6 @@
             "domain": "medium.com"
         },
         "cryptoscamdb": {
-            "category": "Phishing",
-            "subcategory": "Shivom",
-            "addresses": {
-                "ETH": [
-                    "0xD4718F4601Af5365360896F763bb9D7173257450"
-                ]
-            }
         }
     },
     {
