@@ -1,0 +1,647 @@
+{
+    "email sms direct": {
+        "origin": "email sms direct",
+        "total_clicks": 42672,
+        "percentage": 36.061251394382
+    },
+    "kinetictokenforms.typeform.com": {
+        "origin": "kinetictokenforms.typeform.com",
+        "total_clicks": 36650,
+        "percentage": 30.972179968225
+    },
+    "kinetictokenform.typeform.com": {
+        "origin": "kinetictokenform.typeform.com",
+        "total_clicks": 6277,
+        "percentage": 5.3045668120204
+    },
+    "twitter": {
+        "origin": "twitter",
+        "total_clicks": 5116,
+        "percentage": 4.3234289963831
+    },
+    "pokerboxairdrop1.typeform.com": {
+        "origin": "pokerboxairdrop1.typeform.com",
+        "total_clicks": "3520",
+        "percentage": 2.9746814048609
+    },
+    "www.eosgas.co": {
+        "origin": "www.eosgas.co",
+        "total_clicks": "3225",
+        "percentage": 2.7253828212149
+    },
+    "keyfundairdrop.typeform.com": {
+        "origin": "keyfundairdrop.typeform.com",
+        "total_clicks": 2462,
+        "percentage": 2.0805868235135
+    },
+    "airdropform900.typeform.com": {
+        "origin": "airdropform900.typeform.com",
+        "total_clicks": 2274,
+        "percentage": 1.9217117939357
+    },
+    "omisegogold.io": {
+        "origin": "omisegogold.io",
+        "total_clicks": "1910",
+        "percentage": 1.6141026941149
+    },
+    "eoscountdown.co": {
+        "origin": "eoscountdown.co",
+        "total_clicks": 1856,
+        "percentage": 1.5684683771085
+    },
+    "vechainx.net": {
+        "origin": "vechainx.net",
+        "total_clicks": "1691",
+        "percentage": 1.4290301862556
+    },
+    "vechainx.io": {
+        "origin": "vechainx.io",
+        "total_clicks": "1675",
+        "percentage": 1.4155089071426
+    },
+    "anatomiaairdrop.typeform.com": {
+        "origin": "anatomiaairdrop.typeform.com",
+        "total_clicks": 1539,
+        "percentage": 1.3005780346821
+    },
+    "raindrop11.typeform.com": {
+        "origin": "raindrop11.typeform.com",
+        "total_clicks": 1423,
+        "percentage": 1.2025487611128
+    },
+    "com.google.android.gm": {
+        "origin": "com.google.android.gm",
+        "total_clicks": 861,
+        "percentage": 0.72761383226853
+    },
+    "www.eosgas.net": {
+        "origin": "www.eosgas.net",
+        "total_clicks": "836",
+        "percentage": 0.70648683365446
+    },
+    "airdropform901.typeform.com": {
+        "origin": "airdropform901.typeform.com",
+        "total_clicks": "602",
+        "percentage": 0.50873812662678
+    },
+    "www.eosgas.io": {
+        "origin": "www.eosgas.io",
+        "total_clicks": 601,
+        "percentage": 0.50789304668222
+    },
+    "mudium.xyz": {
+        "origin": "mudium.xyz",
+        "total_clicks": "357",
+        "percentage": 0.3016935402089
+    },
+    "jenniferaustin.typeform.com": {
+        "origin": "jenniferaustin.typeform.com",
+        "total_clicks": 280,
+        "percentage": 0.23662238447757
+    },
+    "airtoken.typeform.com": {
+        "origin": "airtoken.typeform.com",
+        "total_clicks": "250",
+        "percentage": 0.21126998614069
+    },
+    "com.twitter.android": {
+        "origin": "com.twitter.android",
+        "total_clicks": 233,
+        "percentage": 0.19690362708312
+    },
+    "facebook": {
+        "origin": "facebook",
+        "total_clicks": 213,
+        "percentage": 0.18000202819187
+    },
+    "www.google.com": {
+        "origin": "www.google.com",
+        "total_clicks": 195,
+        "percentage": 0.16479058918974
+    },
+    "bit.ly": {
+        "origin": "bit.ly",
+        "total_clicks": 185,
+        "percentage": 0.15633978974411
+    },
+    "shawnpdonovan.typeform.com": {
+        "origin": "shawnpdonovan.typeform.com",
+        "total_clicks": "151",
+        "percentage": 0.12760707162898
+    },
+    "www.google.ie": {
+        "origin": "www.google.ie",
+        "total_clicks": "134",
+        "percentage": 0.11324071257141
+    },
+    "buff.ly": {
+        "origin": "buff.ly",
+        "total_clicks": 115,
+        "percentage": 0.097184193624717
+    },
+    "mediurn.press": {
+        "origin": "mediurn.press",
+        "total_clicks": "107",
+        "percentage": 0.090423554068215
+    },
+    "cards.twitter.com": {
+        "origin": "cards.twitter.com",
+        "total_clicks": 72,
+        "percentage": 0.060845756008518
+    },
+    "airdropform009.typeform.com": {
+        "origin": "airdropform009.typeform.com",
+        "total_clicks": "66",
+        "percentage": 0.055775276341142
+    },
+    "youtube": {
+        "origin": "youtube",
+        "total_clicks": 62,
+        "percentage": 0.052394956562891
+    },
+    "tokenairdrop.typeform.com": {
+        "origin": "tokenairdrop.typeform.com",
+        "total_clicks": "56",
+        "percentage": 0.047324476895514
+    },
+    "suretytoken.net": {
+        "origin": "suretytoken.net",
+        "total_clicks": "46",
+        "percentage": 0.038873677449887
+    },
+    "medium.com": {
+        "origin": "medium.com",
+        "total_clicks": 46,
+        "percentage": 0.038873677449887
+    },
+    "telegra.ph": {
+        "origin": "telegra.ph",
+        "total_clicks": 41,
+        "percentage": 0.034648277727073
+    },
+    "xxx.xxx.xxx.11": {
+        "origin": "xxx.xxx.xxx.11",
+        "total_clicks": 38,
+        "percentage": 0.032113037893385
+    },
+    "xxx.xxx.xxx.75": {
+        "origin": "xxx.xxx.xxx.75",
+        "total_clicks": 35,
+        "percentage": 0.029577798059696
+    },
+    "": {
+        "origin": "",
+        "total_clicks": "31",
+        "percentage": 0.026197478281445
+    },
+    "eosdrop.network": {
+        "origin": "eosdrop.network",
+        "total_clicks": 29,
+        "percentage": 0.02450731839232
+    },
+    "com.google.android.googlequicksearchbox": {
+        "origin": "com.google.android.googlequicksearchbox",
+        "total_clicks": 28,
+        "percentage": 0.023662238447757
+    },
+    "zillowtoken.network": {
+        "origin": "zillowtoken.network",
+        "total_clicks": 25,
+        "percentage": 0.021126998614069
+    },
+    "mudium.website": {
+        "origin": "mudium.website",
+        "total_clicks": "19",
+        "percentage": 0.016056518946692
+    },
+    "admin.typeform.com": {
+        "origin": "admin.typeform.com",
+        "total_clicks": 19,
+        "percentage": 0.016056518946692
+    },
+    "kinetictoken.net": {
+        "origin": "kinetictoken.net",
+        "total_clicks": "16",
+        "percentage": 0.013521279113004
+    },
+    "l.instagram.com": {
+        "origin": "l.instagram.com",
+        "total_clicks": "15",
+        "percentage": 0.012676199168441
+    },
+    "xxx.xxx.xxx.44": {
+        "origin": "xxx.xxx.xxx.44",
+        "total_clicks": 14,
+        "percentage": 0.011831119223879
+    },
+    "mail.qq.com": {
+        "origin": "mail.qq.com",
+        "total_clicks": 13,
+        "percentage": 0.010986039279316
+    },
+    "kineticio.network": {
+        "origin": "kineticio.network",
+        "total_clicks": "12",
+        "percentage": 0.010140959334753
+    },
+    "xxx.xxx.xxx.12": {
+        "origin": "xxx.xxx.xxx.12",
+        "total_clicks": 11,
+        "percentage": 0.0092958793901903
+    },
+    "flashblock.acemlnb.com": {
+        "origin": "flashblock.acemlnb.com",
+        "total_clicks": 11,
+        "percentage": 0.0092958793901903
+    },
+    "tronplay.network": {
+        "origin": "tronplay.network",
+        "total_clicks": 10,
+        "percentage": 0.0084507994456276
+    },
+    "www.pokerbox.io": {
+        "origin": "www.pokerbox.io",
+        "total_clicks": "10",
+        "percentage": 0.0084507994456276
+    },
+    "org.telegram.messenger": {
+        "origin": "org.telegram.messenger",
+        "total_clicks": 10,
+        "percentage": 0.0084507994456276
+    },
+    "away.vk.com": {
+        "origin": "away.vk.com",
+        "total_clicks": 9,
+        "percentage": 0.0076057195010648
+    },
+    "xxx.xxx.xxx.69": {
+        "origin": "xxx.xxx.xxx.69",
+        "total_clicks": 8,
+        "percentage": 0.006760639556502
+    },
+    "www.baidu.com": {
+        "origin": "www.baidu.com",
+        "total_clicks": 8,
+        "percentage": 0.006760639556502
+    },
+    "www.bing.com": {
+        "origin": "www.bing.com",
+        "total_clicks": 7,
+        "percentage": 0.0059155596119393
+    },
+    "eoscountdown.network": {
+        "origin": "eoscountdown.network",
+        "total_clicks": "6",
+        "percentage": 0.0050704796673765
+    },
+    "xxx.xxx.xxx.197": {
+        "origin": "xxx.xxx.xxx.197",
+        "total_clicks": 6,
+        "percentage": 0.0050704796673765
+    },
+    "bitcointalk.org": {
+        "origin": "bitcointalk.org",
+        "total_clicks": 6,
+        "percentage": 0.0050704796673765
+    },
+    "email": {
+        "origin": "email",
+        "total_clicks": 5,
+        "percentage": 0.0042253997228138
+    },
+    "keyfund.io": {
+        "origin": "keyfund.io",
+        "total_clicks": "5",
+        "percentage": 0.0042253997228138
+    },
+    "medivm.xyz": {
+        "origin": "medivm.xyz",
+        "total_clicks": "5",
+        "percentage": 0.0042253997228138
+    },
+    "xxx.xxx.xxx.5": {
+        "origin": "xxx.xxx.xxx.5",
+        "total_clicks": "5",
+        "percentage": 0.0042253997228138
+    },
+    "eosprivate.io": {
+        "origin": "eosprivate.io",
+        "total_clicks": "5",
+        "percentage": 0.0042253997228138
+    },
+    "kentra.tech": {
+        "origin": "kentra.tech",
+        "total_clicks": "5",
+        "percentage": 0.0042253997228138
+    },
+    "disq.us": {
+        "origin": "disq.us",
+        "total_clicks": 5,
+        "percentage": 0.0042253997228138
+    },
+    "texacon-verify-547fcd.bitballoon.com": {
+        "origin": "texacon-verify-547fcd.bitballoon.com",
+        "total_clicks": "4",
+        "percentage": 0.003380319778251
+    },
+    "tumblr": {
+        "origin": "tumblr",
+        "total_clicks": "4",
+        "percentage": 0.003380319778251
+    },
+    "flashblocks.net": {
+        "origin": "flashblocks.net",
+        "total_clicks": "4",
+        "percentage": 0.003380319778251
+    },
+    "etherscancom.freshdesk.com": {
+        "origin": "etherscancom.freshdesk.com",
+        "total_clicks": 4,
+        "percentage": 0.003380319778251
+    },
+    "10.220.1.2:8085": {
+        "origin": "10.220.1.2:8085",
+        "total_clicks": 4,
+        "percentage": 0.003380319778251
+    },
+    "xxx.xxx.xxx.133": {
+        "origin": "xxx.xxx.xxx.133",
+        "total_clicks": 4,
+        "percentage": 0.003380319778251
+    },
+    "flashtoken.network": {
+        "origin": "flashtoken.network",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "www.eoscountdown.network": {
+        "origin": "www.eoscountdown.network",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "www.carellocart.com": {
+        "origin": "www.carellocart.com",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "yandex.ru": {
+        "origin": "yandex.ru",
+        "total_clicks": 3,
+        "percentage": 0.0025352398336883
+    },
+    "www.cashaaprivate.com": {
+        "origin": "www.cashaaprivate.com",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "xn--netkin-zxa.com": {
+        "origin": "xn--netkin-zxa.com",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "www.phishtank.com": {
+        "origin": "www.phishtank.com",
+        "total_clicks": "3",
+        "percentage": 0.0025352398336883
+    },
+    "eosgold.typeform.com": {
+        "origin": "eosgold.typeform.com",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "xxx.xxx.xxx.190": {
+        "origin": "xxx.xxx.xxx.190",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "com.slack": {
+        "origin": "com.slack",
+        "total_clicks": 2,
+        "percentage": 0.0016901598891255
+    },
+    "xxx.xxx.xxx.135": {
+        "origin": "xxx.xxx.xxx.135",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "eosprivate.network": {
+        "origin": "eosprivate.network",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "omisegoclassic.com": {
+        "origin": "omisegoclassic.com",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "com.medium.reader": {
+        "origin": "com.medium.reader",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "phishtank.com": {
+        "origin": "phishtank.com",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "www.vechainx.io": {
+        "origin": "www.vechainx.io",
+        "total_clicks": "2",
+        "percentage": 0.0016901598891255
+    },
+    "mudium.site": {
+        "origin": "mudium.site",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "mudium.pw": {
+        "origin": "mudium.pw",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "toxsiid.acemlna.com": {
+        "origin": "toxsiid.acemlna.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "note.naver.com": {
+        "origin": "note.naver.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "larymedical.ro": {
+        "origin": "larymedical.ro",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "eosprime.loc": {
+        "origin": "eosprime.loc",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "myetherwalletverification.signmsg.services": {
+        "origin": "myetherwalletverification.signmsg.services",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "zen.yandex.com.tr": {
+        "origin": "zen.yandex.com.tr",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "m.adnxs.com": {
+        "origin": "m.adnxs.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "modsec.ru": {
+        "origin": "modsec.ru",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "myetherwallet.com.rootsign.icu": {
+        "origin": "myetherwallet.com.rootsign.icu",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "cards-dev.twitter.com": {
+        "origin": "cards-dev.twitter.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "hydrogen-platform.com": {
+        "origin": "hydrogen-platform.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "redirect.protectedparking.com": {
+        "origin": "redirect.protectedparking.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "mail.anabeeb.com": {
+        "origin": "mail.anabeeb.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "orbit2i.com": {
+        "origin": "orbit2i.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "mediurn.xyz": {
+        "origin": "mediurn.xyz",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "web.telegram.org": {
+        "origin": "web.telegram.org",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "motivetokenform.typeform.com": {
+        "origin": "motivetokenform.typeform.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "eosgold.network": {
+        "origin": "eosgold.network",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "inbrowserapp.com": {
+        "origin": "inbrowserapp.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "l.messenger.com": {
+        "origin": "l.messenger.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "sucuri.net": {
+        "origin": "sucuri.net",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "210.117.120.50:8080": {
+        "origin": "210.117.120.50:8080",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "xn--oscountdown-1qb.com": {
+        "origin": "xn--oscountdown-1qb.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "mediium.xyz": {
+        "origin": "mediium.xyz",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "falconetwork.de": {
+        "origin": "falconetwork.de",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "www.fiverr.com": {
+        "origin": "www.fiverr.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "vk.com": {
+        "origin": "vk.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "flashblock.acemlnc.com": {
+        "origin": "flashblock.acemlnc.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "promo-etherum.com:2096": {
+        "origin": "promo-etherum.com:2096",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "anatomia.io": {
+        "origin": "anatomia.io",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "pokerbox.typeform.com": {
+        "origin": "pokerbox.typeform.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "frameset.scur.com": {
+        "origin": "frameset.scur.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "pixel.advertising.com": {
+        "origin": "pixel.advertising.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "www.djapp.info": {
+        "origin": "www.djapp.info",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "www.taxnotes.com": {
+        "origin": "www.taxnotes.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "www.naver.com": {
+        "origin": "www.naver.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    },
+    "translate.googleusercontent.com": {
+        "origin": "translate.googleusercontent.com",
+        "total_clicks": "1",
+        "percentage": 0.00084507994456276
+    }
+}
